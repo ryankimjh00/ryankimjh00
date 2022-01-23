@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! This is Univ. student's CS study😁
 
 <!--
 **ryankimjh00/ryankimjh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
