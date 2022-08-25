@@ -1,5 +1,5 @@
 ### Hi there 🫠
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryankimjh00&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryankimjh00&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm in charge of the backend.
 
