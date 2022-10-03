@@ -1,0 +1,5 @@
+
+‚javascript:S1172
+"aRemove the unused function parameter "event" or rename it to "_event" to make intention explicit.(×ã¼òùÿÿÿÿ
+ojavascript:S1848"SEither remove this useless object instantiation of "bootstrap.ScrollSpy" or use it.(¤¶ºÊ
+7javascript:S1116"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
