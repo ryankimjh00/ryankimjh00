@@ -17,8 +17,8 @@ I'm in charge of the backend.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankimjh00&repo=Xlack-frontend)](https://github.com/Team-Discipline/Xlack-Frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankimjh00&repo=Xlack-Backend)](https://github.com/Team-Discipline/Xlack-Backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankimjh00&repo=URLS3-frontend)](https://github.com/Team-Discipline/URLS3-frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankimjh00&repo=URLS3-frontend)](https://github.com/Team-Discipline/URLS3-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankimjh00&repo=URLS3-Frontend)](https://github.com/Team-Discipline/URLS3-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankimjh00&repo=URLS3-Backend)](https://github.com/Team-Discipline/URLS3-backend)
 
 
 For more detail, visit my page https://ryankimjh00.github.io/ryankimjh00/
