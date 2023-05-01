@@ -29,8 +29,6 @@
 <div align="center">
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/> 
   <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/> 
-  <img alt="Heroku" src ="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"/> 
-  <img alt="nginx" src ="https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> 
 </div>
 <br>
 
@@ -43,6 +41,10 @@
   <img alt="PyCharm" src ="https://img.shields.io/badge/PyCharm-00D564.svg?&style=for-the-badge&logo=PyCharm&logoColor=black"/>  
   <img alt="WebStorm" src ="https://img.shields.io/badge/WebStorm-528DD7.svg?&style=for-the-badge&logo=WebStorm&logoColor=black"/> 
   <img alt="Eclipse IDE" src ="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
+</div>
+<div align="center">
+  <img alt="Heroku" src ="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"/> 
+  <img alt="nginx" src ="https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> 
 </div>
 <hr>
 
