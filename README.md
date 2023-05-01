@@ -4,8 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryankimjh00&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryankimjh00&layout=compact"><br><br>
 
-I'm in charge of the backend.
-
+I am in charge of the manager at the same time as the front-end development.
 #### 💻Here are my Tech Stacks💻
 
 
@@ -21,5 +20,4 @@ I'm in charge of the backend.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankimjh00&repo=URLS3-Backend)](https://github.com/Team-Discipline/URLS3-backend)
 
 
-For more detail, visit my page https://ryankimjh00.github.io/ryankimjh00/
 
