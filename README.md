@@ -4,6 +4,7 @@
   ### Hi there 🫠
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryankimjh00&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryankimjh00&layout=compact"><br><br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryankimjh00&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   <h2>I am in charge of the manager at the same time as the front-end development.</h2>
 </div>
