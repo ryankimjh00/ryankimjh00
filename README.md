@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=C0C5FF&height=100&section=header&text=JongHyeon's_github&fontSize=50" />
 
   ### Hi there 🫠
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryankimjh00&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryankimjh00&theme=flag-india&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryankimjh00&layout=compact"><br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryankimjh00&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
