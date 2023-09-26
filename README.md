@@ -6,7 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryankimjh00&layout=compact"><br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryankimjh00&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <h2>I am in charge of the manager at the same time as the front-end development.</h2>
 </div>
 <hr>
 <h2 align="center">💻Here are my Tech Stacks💻</h2>
