@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=C0C5FF&height=100&section=header&text=JongHyeon's_github&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=C0C5FF&height=100&section=header&text=JongHyun's_github&fontSize=50" />
 
   ### Hi there 🫠
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryankimjh00&theme=flag-india&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
