@@ -66,7 +66,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankimjh00&repo=Xlack-frontend)](https://github.com/Team-Discipline/Xlack-Frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankimjh00&repo=Xlack-Backend)](https://github.com/Team-Discipline/Xlack-Backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankimjh00&repo=Opentelemetry-java-property-maker)](https://github.com/ryankimjh00/Opentelemetry-java-property-maker)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryankimjh00&repo=LogPatternFinder)](https://github.com/ryankimjh00/LogPatternFinder)
 </div>
 
 
