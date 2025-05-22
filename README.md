@@ -15,48 +15,29 @@
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> 
   <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-0094F5.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> 
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
-  <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
-  <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
   <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
   
 </div>
 
 <div align="center">
-  <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> 
-  <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/> 
+  <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/> 
   <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/> 
   <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/> 
 </div>
 
 <div align="center">
-  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/> 
-  <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/> 
-  <img alt="postgresql" src ="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
+  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img alt="kubernetes" src ="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </div>
 
 <div align="center">
+  <img alt="clickhouse" src ="https://img.shields.io/badge/clickhouse-FFCC01.svg?&style=for-the-badge&logo=clickhouse&logoColor=black"/> 
   <img alt="opentelemetry" src ="https://img.shields.io/badge/opentelemetry-000000.svg?&style=for-the-badge&logo=opentelemetry&logoColor=white"/> 
-  <img alt="kubernetes" src ="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> 
   <img alt="grafana" src ="https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white"/> 
   <img alt="prometheus" src ="https://img.shields.io/badge/prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/> 
 </div>
 <br>
-
-<hr>
-
-<h2 align="center">💻Tools I Use💻</h2>
-<br>
-<div align="center">
-  <img alt="IntelliJ IDEA" src ="https://img.shields.io/badge/IntelliJ IDEA-E60012.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=black"/> 
-  <img alt="PyCharm" src ="https://img.shields.io/badge/PyCharm-00D564.svg?&style=for-the-badge&logo=PyCharm&logoColor=black"/>  
-  <img alt="WebStorm" src ="https://img.shields.io/badge/WebStorm-528DD7.svg?&style=for-the-badge&logo=WebStorm&logoColor=black"/> 
-  <img alt="Eclipse IDE" src ="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
-</div>
-<div align="center">
-  <img alt="Heroku" src ="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"/> 
-  <img alt="nginx" src ="https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> 
-</div>
 <hr>
 
 <h2 align="center">📌Special Pins</h2>
